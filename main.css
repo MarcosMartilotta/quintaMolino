@@ -1,0 +1,19 @@
+body {
+    background-color: #efefef;
+}
+
+.bar {
+    display: flex;
+    background-color: rgba(100, 230, 40, 0.4);
+    width: 100%;
+    padding: 0;
+
+}
+
+.hamburger {
+    size: 10px 10px;
+}
+
+.mapa {
+    border-radius: 4px;
+}
